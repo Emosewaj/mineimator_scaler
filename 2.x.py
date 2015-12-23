@@ -1,4 +1,5 @@
 #Use this with http://www.skulpt.org or an installed python version 2.x
+#Does NOT work with python 3.x!
 
 size = input('Enter the wanted size in centimeters: ')
 size = float(size)
